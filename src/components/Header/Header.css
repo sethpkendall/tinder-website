@@ -1,0 +1,12 @@
+#HeaderRoot{
+  background: url('../../images/header-shadow.png') bottom repeat-x;
+  margin: 0 auto;
+  width: 95%;
+  height: 14vh;
+}
+
+#Logo{
+  height: 8vh;
+  margin-left: 15px;
+  margin-top: 15px;
+}

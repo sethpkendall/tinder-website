@@ -1,0 +1,30 @@
+#BodyRoot{
+  margin: 0 auto;
+  width: 80vw;
+  font-family: 'Pavanam', sans-serif;
+}
+
+#paragraph-head{
+  color: #eb9e00;
+  font-size: 32px;
+  margin-bottom: 2px;
+}
+
+#paragraph-body{
+  font-size: 32px;
+  margin-top: 0px;
+}
+
+#activities-head{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+.activities-list-div{
+  text-align: center;
+}
+
+.activities-list{
+  list-style-type: none;
+}
